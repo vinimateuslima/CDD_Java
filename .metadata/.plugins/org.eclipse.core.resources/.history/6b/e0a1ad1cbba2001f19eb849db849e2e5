@@ -1,0 +1,29 @@
+package Fundamentos;
+
+import java.util.Scanner;
+
+public class Exercicio04 {
+
+	public static void main(String[] args) {
+
+		Scanner entrada = new Scanner(System.in);
+
+		int resp;
+
+		int contador = 0;
+
+		System.out.println("Telefonou para a vítima?");
+
+		resp = entrada.nextInt();
+
+		if (resp == 1) {
+			contador = 2;
+		}
+
+	
+		
+		System.out.println(contador);
+
+	}
+
+}
