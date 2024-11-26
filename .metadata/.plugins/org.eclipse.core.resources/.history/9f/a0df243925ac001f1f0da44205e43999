@@ -1,0 +1,20 @@
+package Fundamentos2;
+
+public class Exercicio12 {
+
+	public static void main(String[] args) {
+		
+		int[] arrayUm = new int[4];
+		
+		System.out.println(arrayUm.length);
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}

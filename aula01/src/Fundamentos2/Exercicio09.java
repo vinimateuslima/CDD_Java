@@ -19,7 +19,7 @@ public class Exercicio09 {
 		}
 
 		int resultado = x + y;
-
+		
 		System.out.println(resultado);
 
 	}
